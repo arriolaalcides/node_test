@@ -1,5 +1,7 @@
 # node_test
 
-# npm install
+1) npm install
 
-# Execute: npm start
+2) Execute: npm start
+
+3) Watch the file.txt created
